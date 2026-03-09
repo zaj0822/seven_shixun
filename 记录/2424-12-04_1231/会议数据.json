@@ -1,0 +1,17 @@
+{
+  "meeting": {
+    "id": 1773046949436,
+    "title": "1231",
+    "date": "2424-12-04T22:24",
+    "duration": 3
+  },
+  "content": {
+    "transcript": "正在调用处理音频...",
+    "summary": "",
+    "keywords": []
+  },
+  "exportInfo": {
+    "exportedAt": "2026-03-09T09:02:46.145Z",
+    "tool": "智能会议助手"
+  }
+}
